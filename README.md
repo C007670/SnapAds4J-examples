@@ -1,2 +1,3 @@
 # SnapAds4J-examples
-Examples SnapAds4J
+
+You'll find here examples for SnapAds4J...
